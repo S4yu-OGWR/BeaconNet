@@ -8,7 +8,7 @@ A Golang library for manipulating binary streams specific to the Minecraft 1.8.x
 
 ### Installation
 ```bash
-go get github.com/Kartendsy/mc1.8.x-bin
+go get github.com/S4yu-OGWR/BeaconNet
 ```
 
 ### Usage Example (Quick Start)
