@@ -1,4 +1,5 @@
-# mcproto
+# BeaconNet
+
 A Golang library for manipulating binary streams specific to the Minecraft 1.8.x protocol.
 
 ### Features
